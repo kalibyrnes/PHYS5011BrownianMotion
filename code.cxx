@@ -3,7 +3,6 @@
 
 using namespace cv;  
 using namespace std;   
-
 int main() {
 
     Mat frame = imread("frame.png");   // this will work on the single file in the repo, will need to change to adjsut to .tiff files
@@ -40,7 +39,7 @@ int main() {
     imshow("Filtered", filt);
     imshow("Binary Mask", clean);
 
-    imwrite("../data/binary_output.png", clean);
+    imwrite("output.png", clean);
 
     waitKey(0);
     return 0;
