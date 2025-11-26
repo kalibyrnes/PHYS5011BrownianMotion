@@ -8,7 +8,7 @@ Need to take each slide (~167/sample) and switch to greyscale
 
 Once in greyscale, need to normalize the background to zero,( aka remove shadows)
 
-We should then be able to take our image data and turn it into a matrix where the background is normalized to zero and the observable polystyrene beads and some value greater than zero.
+We should then be able to take our image data and turn it into a matrix where the background is normalized to zero and the observable polystyrene beads are some value greater than zero.
 
 We will have a matrix for each of the 167 slides for each of the 3 runs for each of the 4 samples, this will allow us to trace the movement of the polystyrene beads through the 167 slides,,
 
