@@ -23,7 +23,7 @@ File organization on my desktop
 *might be helpful for readjusting to run code on another system*
 
 Users
-	kalibyrnes
+	>kalibyrnes
 		Desktop
 			Fall2025
 				PHYS5011
