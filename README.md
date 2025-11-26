@@ -29,6 +29,8 @@ Users
             Fall2025
                 PHYS5011
                     BrownianMotion
+                        Code
+                            whatever files i end up creating, will update this structure once finished
                         Data
                             4.11μm
                                 4.11μmTake1.tif
