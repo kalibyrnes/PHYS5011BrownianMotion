@@ -22,26 +22,28 @@ What file type do we want back? Csv? If csv, we will then have to create a progr
 File organization on my desktop
 *might be helpful for readjusting to run code on another system*
 
+```text
 Users
-└── kalibyrnes
-└── Desktop
-└── Fall2025
-└── PHYS5011
-└── BrownianMotion
-└── Data
-├── 4.11μm
-│   ├── 4.11μmTake1.tif
-│   ├── 4.11μmTake2.tif
-│   └── 4.11μmTake3.tif
-├── 950nm
-│   ├── 950nmTake1.tif
-│   ├── 950nmTake2.tif
-│   └── 950nmTake3.tif
-├── 752nm
-│   ├── 752nmTake1.tif
-│   ├── 752nmTake2.tif
-│   └── 752nmTake3.tif
-└── 535nm
-    ├── 535nmTake1.tif
-    ├── 535nmTake2.tif
-    └── 535nmTake3.tif
+    kalibyrnes
+        Desktop
+            Fall2025
+                PHYS5011
+                    BrownianMotion
+                        Data
+                            4.11μm
+                                4.11μmTake1.tif
+                                4.11μmTake2.tif
+                                4.11μmTake3.tif
+                            950nm
+                                950nmTake1.tif
+                                950nmTake2.tif
+                                950nmTake3.tif
+                            752nm
+                                752nmTake1.tif
+                                752nmTake2.tif
+                                752nmTake3.tif
+                            535nm
+                                535nmTake1.tif
+                                535nmTake2.tif
+                                535nmTake3.tif
+```
